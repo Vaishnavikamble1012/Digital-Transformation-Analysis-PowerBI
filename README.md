@@ -1,7 +1,12 @@
 # 📊 Digital Transformation Analysis using Power BI
 
 ## 📌 Project Overview
-This project focuses on analyzing the level of technology adoption and digital transformation among small and medium-sized businesses in Baramati. The study identifies operational challenges, automation gaps, and opportunities for improving business efficiency using data-driven insights.
+This project analyzes the level of technology adoption and digital transformation among small and medium-sized businesses in Baramati. The study identifies operational challenges, automation gaps, and opportunities for improving business efficiency using data-driven insights.
+
+---
+
+## ❗ Problem Statement
+Many small and medium businesses still rely on manual processes and lack digital tools, leading to inefficiencies in operations, customer management, and decision-making.
 
 ---
 
@@ -21,13 +26,12 @@ This project focuses on analyzing the level of technology adoption and digital t
 ---
 
 ## 📊 Key Insights
-- 56% of businesses still rely on manual processes  
-- 36% businesses are interested in automation tools  
+- 56% of businesses still depend on manual operations, indicating low digital adoption  
+- 36% businesses are willing to adopt automation tools, showing growth opportunity  
 - Major challenges include:
   - Customer Handling  
   - Data Management  
-  - Employee Productivity  [Business Automation Report.docx](https://github.com/user-attachments/files/26539156/Business.Automation.Report.docx)
-
+  - Employee Productivity  
 
 ---
 
@@ -40,8 +44,8 @@ This project focuses on analyzing the level of technology adoption and digital t
 ---
 
 ## 📷 Project Screenshots
-### 📊 Business Automation Dashboard
-![Business Automation Dashboard](https://github.com/user-attachments/assets/72e736e6-d07b-4a8f-8641-f5f00162f8b4)
+📊Business Automation Dashboard
+![Business Automation Dashboard](https://github.com/user-attachments/assets/acb443db-42af-42c8-a74d-09cd58e06d88)
 
 
 ---
@@ -52,13 +56,29 @@ This project focuses on analyzing the level of technology adoption and digital t
 
 ---
 
-## 🚀 Conclusion
-The project highlights the need for increased digital awareness and adoption among businesses. Power BI dashboards help in identifying key gaps and support data-driven decision-making for business growth.
+## 💼 Business Impact
+- Helps businesses identify areas for digital improvement  
+- Supports data-driven decision-making  
+- Improves efficiency through automation insights  
 
 ---
 
+## 🔮 Future Scope
+- Integration of advanced analytics tools  
+- Implementation of automation software  
+- Expansion of study to larger regions  
+
+---
+
+## 🚀 Conclusion
+The project highlights the need for increased digital awareness and adoption among businesses. Power BI dashboards help identify key gaps and support better decision-making for business growth.
+
+--- 
+
 ## 👩‍💻 Author
 **Vaishnavi Kamble**  
+🔗 GitHub: https://github.com/Vaishnavikamble1012  
+📧 Email: vaishnavikamble1012@gmail.com  
 MBA (Business Analytics)[Business Automation Report PPT.pptx](https://github.com/user-attachments/files/26539182/Business.Automation.Report.PPT.pptx)
 [Business Automation Research Paper.docx](https://github.com/user-attachments/files/26539178/Business.Automation.Research.Paper.docx)
 [Business Automation Report.docx](https://github.com/user-attachments/files/26539174/Business.Automation.Report.docx)
